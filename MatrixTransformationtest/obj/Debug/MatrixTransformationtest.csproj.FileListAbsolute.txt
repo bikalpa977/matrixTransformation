@@ -1,0 +1,15 @@
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\bin\Debug\MatrixTransformationtest.exe.config
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\bin\Debug\MatrixTransformationtest.exe
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\bin\Debug\MatrixTransformationtest.pdb
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest.csprojAssemblyReference.cache
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MainWindow.g.cs
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\App.g.cs
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest_MarkupCompile.cache
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest_MarkupCompile.lref
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MainWindow.baml
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest.g.resources
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest.Properties.Resources.resources
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest.csproj.GenerateResource.cache
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest.csproj.CoreCompileInputs.cache
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest.exe
+C:\Users\Bikalpa1\source\repos\MatrixTransformationtest\MatrixTransformationtest\obj\Debug\MatrixTransformationtest.pdb
